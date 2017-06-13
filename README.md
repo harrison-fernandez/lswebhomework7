@@ -5,8 +5,13 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+- An array is a special variable that can hold more than one number and/or string. It is the solution to holding many values under one single name. In other words, an array can be a list of things, test scores, or pizza toppings. 
+
 	* Object
+- An object is another way to represent data. It is the same as an object in real life. A cell phone has a color, brand, weight, and dimensions. In the same way, objects in javascript are the same way. A phone is the object, with color, brand, weight, and dimensions being the phone's properties.
+
 	* Method
+- A method is when an object has a property that is a function. If we took the object of a cell phone, one of its properties can be a function where we return the phone's dimensions and weight. 
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
